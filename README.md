@@ -1,7 +1,20 @@
-# CapstoneProject1
-Title: My Story as a DevOp Engineer
-chapter1.md is the introdution part of the story
-chapter2 entails the body of the story
-chapter3 is the conclcuding part of the story
-chapter4 is the ending of the story.
-conflicted-file contain detailed report of edits made in the story write up.
+#  My Darey.io Git Adventure
+Welcome to our collaborative web story project!
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Navigation](#navigation)
+- [Acknowledgments](#acknowledgments)
+
+## Navigation
+
+Navigate through the story by selecting the hyperlinked options at the end of each chapter.
+[Chapter 1](CapstoneProject1/chapter1.md)
+[Chapter 2](CapstoneProject1/chapter2.md)
+[Chapter 3](CapstoneProject1/chapter3.md)
+[Chapter 4](CapstoneProject1/chapter4.md)
+
+## Acknowledgments
+
+Thank you for being a part of this Git adventure! Your contributions make the story come alive.
