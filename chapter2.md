@@ -1,0 +1,5 @@
+The next milestone in the journey was grasping the importance of continuous integration and continuous deployment (CI/CD). Alex understood that automating the process of building, testing, and deploying code was crucial for achieving agility and reliability in software development. Jenkins, Travis CI, and GitLab CI/CD became familiar companions in their toolkit.
+
+With a solid understanding of both development and operations, Alex became proficient in cloud computing platforms such as AWS, Azure, and Google Cloud. They could seamlessly deploy applications to the cloud, taking advantage of scalable and resilient infrastructure. Infrastructure as Code (IaC) became a key concept in their arsenal, using tools like Terraform and CloudFormation to define and provision infrastructure.
+
+As the journey progressed, Alex faced challenges and setbacks. However, these obstacles were seen as opportunities to learn and grow. The DevOps mindset of continuous improvement and collaboration fueled their determination to overcome any hurdles encountered.
