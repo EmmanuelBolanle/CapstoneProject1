@@ -1,5 +1,2 @@
-Once upon a time in the rapidly evolving landscape of technology, there lived a determined individual named Alex. With a passion for both development and operations, Alex embarked on a journey to become a Desktop programmer.
 
-The journey began with a strong foundation in software development. Alex honed their coding skills, becoming proficient in various programming languages. They spent countless hours working on projects, mastering the art of creating robust and efficient code. This phase of the journey laid the groundwork for understanding the software development life cycle.
-
-As the landscape of technology continued to shift towards automation and collaboration, Alex recognized the need to bridge the gap between development and operations. This realization led them to delve into the world of infrastructure and operations. They started learning about configuration management, virtualization, and containerization. Tools like Ansible, Docker, and Kubernetes became integral parts of Alex's skill set.
+Once upon a time in the rapidly evolving landscape of technology, there lived a determined individual named Alex. With a passion for both development and operations, Alex embarked on a journey to become a DevOps engineer.
