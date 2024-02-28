@@ -1,4 +1,4 @@
-Once upon a time in the rapidly evolving landscape of technology, there lived a determined individual named Alex. With a passion for both development and operations, Alex embarked on a journey to become a software engineer.
+Once upon a time in the rapidly evolving landscape of technology, there lived a determined individual named Alex. With a passion for both development and operations, Alex embarked on a journey to become a DevOps engineer.
 
 The journey began with a strong foundation in software development. Alex honed their coding skills, becoming proficient in various programming languages. They spent countless hours working on projects, mastering the art of creating robust and efficient code. This phase of the journey laid the groundwork for understanding the software development life cycle.
 
